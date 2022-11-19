@@ -6,6 +6,9 @@
 "sites": [
 {"key":"csp_Nbys","name":"🐞泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20220825.jar"},
 {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_If101","name":"🛫If101┃墙外","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_trj","name":"🛫唐人街┃墙外","type": 3,"api":"csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
+   {"key":"csp_Xiaoh","name":"🛫小 宝┃墙外","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://download.kstore.space/download/2863/Tangsan999.jar;md5;3ff273adc74924748c820b8f15fb8c49"},
 {"key":"csp_XYQBiu_e9","name":" 🌌e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quicksearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/1epubnr7.json"},
 {"key":"csp_XYQBiu_wnys","name":" 🌌万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quicksearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/uhldi7ln.json"},
